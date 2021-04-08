@@ -18,39 +18,25 @@
 
 ### 🏠 [Homepage](https://github.com/senrigan/ApiRestTest.git)
 
-## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
 
-## Install
 
-```sh
-to run the application please execute RUNME.BAT or run the command &#34;mvnw.cmd spring-boot:run&#34;
-```
 
 ## Usage
 
 ```sh
-to run the application please execute RUNME.BAT or run the command &#34;mvnw
+to run the application please execute RUNME.BAT or run the command "mvnw.cmd spring-boot:run"
 ```
 
-## Run tests
 
-```sh
-.cmd spring-boot:run&#34;
-```
 
 ## Author
 
 👤 **Gilberto Cordero**
 
-* Website: https://www.franck-abgrall.me/
-* GitHub: [@kefranabg](https://github.com/kefranabg)
+* GitHub: [@senrigan](https://github.com/senrigan/)
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
